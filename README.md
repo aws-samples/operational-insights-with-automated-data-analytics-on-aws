@@ -38,7 +38,7 @@ To perform this demo end to end as described in the [blog](link), the user needs
 The steps to clone the repo and to set up AWS CDK project are listed below. Before running the commands below, be sure to [configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) your AWS Credentials. Create a folder, open Terminal and navigate to the folder where the AWS CDK solution needs to be installed. 
 
 ```
-* `gh repo clone vaijusson/ADALogInsights`  clone the project in a local folder
+* `gh repo clone aws-samples/operational-insights-with-automated-data-analytics-on-aws`  clone the project in a local folder
 * `npm run build`   compile typescript to js
 * `npm run watch`   watch for changes and compile
 * `cdk deploy`      deploy this stack to your default AWS account/region
