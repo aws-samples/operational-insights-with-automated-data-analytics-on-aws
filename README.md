@@ -1,4 +1,4 @@
-# Derive Application Log Insights Using Amazon CloudWatch Connector for Automated Data Analytics on AWS
+# Derive operational insights from application logs using ADA on AWS
 
 ## Background
  This repository provides an AWS CDK solution that is used to demonstrate the capabilities of ADA on AWS Solution. [Automated Data Analytics on AWS (ADA)](https://aws.amazon.com/solutions/implementations/automated-data-analytics-on-aws/) is an AWS Solution that enables users to derive meaningful insights from data in a matter of minutes through a simple and intuitive user interface. Using this repository, we will demonstrate how an Application Developer or an Application Tester is able to leverage ADA to derive operational insights of applications running in AWS. ADA’s data products allows users to connect to a wide range of data sources so that users can query the datasets as if they are querying Relational Database Tables.
